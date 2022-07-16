@@ -24,13 +24,14 @@ button {
 }
 
 /* task 3 */
-.gallery {
-  display: flex;
-  justify-content: space-around;
-}
 
+.gallery {
+  list-style: none;
+}
 
 .gallery--image {
   display: flex;
   width: 450px;
+  margin: 10px;
+ 
 }
